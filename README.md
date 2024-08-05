@@ -3,7 +3,7 @@
 ## Springboot Java Backent Application to manage the Student and  Courses the enroll.
 
 ## Home Page Image
-![Home Page](https://example.com/image.png)
+![Home Page](D:\student-admin-system\images\image.png)
 
 ## Installation
 - Download the zip file
