@@ -1,9 +1,9 @@
 # Admin Student Management System
 
-## Springboot Java Backent Application to manage the Student and  Courses the enroll.
+## Springboot Java Backend Application to manage the Student and  Courses the enroll.
 
 ## Home Page Image
-![Home Page](D:\student-admin-system\images\image.png)
+![Home Page](./images/image.png)
 
 ## Installation
 - Download the zip file
