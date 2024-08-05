@@ -5,6 +5,14 @@
 ## Home Page Image
 ![Home Page](https://example.com/image.png)
 
+## Installation
+- Download the zip file
+- Export the zip file
+- Import the extracted file in IDE for exaple STS, Intellij, Ecllipse, etc
+- Right Click on porject file.
+- Run as Spring boot aplication
+- If console show run successfully then follow below steps
+  
 ## how to run
 - http://localhost:your_system_server_port/
   Once successfully enter you will show above image
