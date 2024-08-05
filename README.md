@@ -8,13 +8,14 @@
 ## Installation
 - Download the zip file
 - Export the zip file
-- Import the extracted file in IDE for exaple STS, Intellij, Ecllipse, etc
-- Right Click on porject file.
-- Run as Spring boot aplication
+- Import the extracted file in IDE for example STS, Intellij, Ecllipse, etc
+- Right click on project file.
+- Run as Spring boot application
 - If console show run successfully then follow below steps
   
 ## how to run
 - http://localhost:your_system_server_port/
+  
   Once successfully enter you will show above image
 
 - Further operation you can perform on Postman
